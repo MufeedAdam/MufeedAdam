@@ -14,7 +14,7 @@ Hi there! I'm a passionate Android Developer with 4+ years of experience in craf
 
 ## 📱 Highlight Projects
 
-### 📘 [True PDF Reader]([https://play.google.com/store/apps/details?id=your.app.package](https://play.google.com/store/apps/details?id=com.adamlabs.pdfviewer))
+### 📘 [True PDF Reader](https://play.google.com/store/apps/details?id=com.adamlabs.pdfviewer)
 A lightweight, high-performance offline PDF viewer with a clean UI.  
 ⭐️ 4.2 / 5 · 📥 50K+ Downloads
 

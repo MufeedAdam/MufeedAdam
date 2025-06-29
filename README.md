@@ -56,9 +56,9 @@ Efficient background syncing using WorkManager and batched operations to reduce 
 
 ## 📬 Let's Connect
 
-- 📫 Email: [your.email@example.com]
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🧑‍💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 📫 Email: gangolimufeed@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/g-m-mufeed](https://linkedin.com/in/g-m-mufeed)
+- 🧑‍💻 GitHub: [github.com/MufeedAdam](https://github.com/MufeedAdam)
 
 ---
 
